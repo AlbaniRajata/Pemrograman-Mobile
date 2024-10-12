@@ -37,7 +37,7 @@ class MainApp extends StatelessWidget {
               ],
             ),
           ),
-          Icon(
+          const Icon(
             Icons.star,
             color: Colors.red,
           ),
